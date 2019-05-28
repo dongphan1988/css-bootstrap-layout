@@ -1,0 +1,49 @@
+.container {
+    width: 100%;
+}
+.container .head-link{
+}
+.container .header .logo img {
+width: 100%;
+    height: 300px;
+}
+
+.container .header .logo {
+    padding: 0;
+
+}
+.container .header .banner {
+    text-align: center;
+    background: #0c5460;
+    position: relative;
+    padding: 0;
+}
+.container .header .banner .slogan {
+    position: absolute;
+    top: 0;
+    left: 35%;
+}
+.container .header .banner .slogan h1{
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+.container .header .banner .slogan h3 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+
+}
+.container .header .banner img {
+width: 100%;
+    height: 300px;
+}
+.container .main .left{
+    height: 200px;
+    background: #ced4da;
+}
+.container .main .left
